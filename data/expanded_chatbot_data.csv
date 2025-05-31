@@ -1,0 +1,301 @@
+question,intent
+Can I preorder this product?,product_availability
+Can I pay with UPI?,payment_methods
+Has my order shipped yet?,order_status
+Order hasn’t arrived yet,order_status
+Can I track my order?,order_status
+Do you support EMI?,payment_methods
+"I clicked the wrong product, can I cancel?",cancel_order
+Is there a cancellation fee?,cancel_order
+Is cash on delivery available?,payment_methods
+Do you ship internationally?,shipping_info
+Is this a limited edition?,product_availability
+How long does delivery take?,shipping_info
+Can I pay with UPI?,payment_methods
+Has my order shipped yet?,order_status
+Can I change my shipping address?,shipping_info
+What courier do you use?,shipping_info
+When will this product be available again?,product_availability
+Is my package delayed?,order_status
+Is my package delayed?,order_status
+Can I return a used item?,return_policy
+I want to know my shipping status,order_status
+Is this a limited edition?,product_availability
+What is the status of my order?,order_status
+Do you support EMI?,payment_methods
+Do I need to call to cancel?,cancel_order
+Can I preorder this product?,product_availability
+How long does delivery take?,shipping_info
+When will this product be available again?,product_availability
+Is return shipping free?,return_policy
+How long does delivery take?,shipping_info
+Can I get tracking details?,order_status
+Can I return a used item?,return_policy
+What payment methods do you accept?,payment_methods
+How do I check my order's status?,order_status
+Is there a cancellation fee?,cancel_order
+Will this size be restocked?,product_availability
+How do I cancel my order?,cancel_order
+How do I cancel my order?,cancel_order
+Do you accept credit cards?,payment_methods
+Can I use PayPal to pay?,payment_methods
+What is your return policy?,return_policy
+Is return shipping free?,return_policy
+Do you ship internationally?,shipping_info
+Why is my order taking so long?,order_status
+What courier do you use?,shipping_info
+Can I use net banking?,payment_methods
+Is payment secure?,payment_methods
+How do I check my order's status?,order_status
+Order cancellation not working,cancel_order
+What happens if I return after the deadline?,return_policy
+Is return shipping free?,return_policy
+What payment methods do you accept?,payment_methods
+Is express shipping available?,shipping_info
+When does this product release?,product_availability
+Notify me when back in stock,product_availability
+Is there a cancellation fee?,cancel_order
+Is the red color variant available?,product_availability
+Is cash on delivery available?,payment_methods
+Can I cancel my purchase?,cancel_order
+Can I get tracking details?,order_status
+What happens if I return after the deadline?,return_policy
+Can I split my payment?,payment_methods
+Is GPay accepted?,payment_methods
+I want to know my shipping status,order_status
+What items are not returnable?,return_policy
+What is your return policy?,return_policy
+Can I cancel my purchase?,cancel_order
+Do you offer free delivery?,shipping_info
+Is there a restocking fee?,return_policy
+Do you offer free delivery?,shipping_info
+Do I need the receipt to return?,return_policy
+What is the cancellation process?,cancel_order
+How long does delivery take?,shipping_info
+When will this product be available again?,product_availability
+Is return shipping free?,return_policy
+Can I choose my delivery date?,shipping_info
+Do you ship on weekends?,shipping_info
+What courier do you use?,shipping_info
+How do I check my order's status?,order_status
+Can I get tracking details?,order_status
+How do I cancel my order?,cancel_order
+What courier do you use?,shipping_info
+I want to cancel my order,cancel_order
+Can I cancel after payment?,cancel_order
+Is this a limited edition?,product_availability
+Where is my order?,order_status
+Can I use net banking?,payment_methods
+Do you ship on weekends?,shipping_info
+How much is shipping?,shipping_info
+What items are not returnable?,return_policy
+Can I preorder this product?,product_availability
+Do you have this item?,product_availability
+Will this size be restocked?,product_availability
+Do you ship on weekends?,shipping_info
+What courier do you use?,shipping_info
+Can I return my purchase?,return_policy
+Do I need to call to cancel?,cancel_order
+Cancel my order immediately,cancel_order
+Is this product in stock?,product_availability
+What courier do you use?,shipping_info
+Is express shipping available?,shipping_info
+How long does delivery take?,shipping_info
+Is payment secure?,payment_methods
+Will this size be restocked?,product_availability
+How do I check my order's status?,order_status
+Can I use PayPal to pay?,payment_methods
+Can I return a used item?,return_policy
+Is my package delayed?,order_status
+Do you offer free delivery?,shipping_info
+What items are not returnable?,return_policy
+Is my package delayed?,order_status
+Do you have this item?,product_availability
+What is your return policy?,return_policy
+Do you have more in your warehouse?,product_availability
+What is the cancellation process?,cancel_order
+How long do I have to return an item?,return_policy
+What items are not returnable?,return_policy
+When will this product be available again?,product_availability
+Cancel my order immediately,cancel_order
+Can I use net banking?,payment_methods
+When will this product be available again?,product_availability
+Is return shipping free?,return_policy
+Is this a limited edition?,product_availability
+Where is my order?,order_status
+Is GPay accepted?,payment_methods
+Cancel my order immediately,cancel_order
+Do you have this item?,product_availability
+Order hasn’t arrived yet,order_status
+Do you ship internationally?,shipping_info
+When does this product release?,product_availability
+What payment methods do you accept?,payment_methods
+Notify me when back in stock,product_availability
+What is the cancellation process?,cancel_order
+Do I need the receipt to return?,return_policy
+Can I track my order?,order_status
+Can I return my purchase?,return_policy
+What are the shipping charges?,shipping_info
+What payment methods do you accept?,payment_methods
+I want to know my shipping status,order_status
+Can I cancel my purchase?,cancel_order
+What are the shipping charges?,shipping_info
+What is the cancellation process?,cancel_order
+I want to know my shipping status,order_status
+"I clicked the wrong product, can I cancel?",cancel_order
+What is your return policy?,return_policy
+Is there a cancellation fee?,cancel_order
+Can I cancel after payment?,cancel_order
+Where is my order?,order_status
+Can I pay with UPI?,payment_methods
+Do you ship internationally?,shipping_info
+Can I return my purchase?,return_policy
+What payment methods do you accept?,payment_methods
+"I clicked the wrong product, can I cancel?",cancel_order
+I want to know my shipping status,order_status
+Do you support EMI?,payment_methods
+Is payment secure?,payment_methods
+Will this size be restocked?,product_availability
+Is this a limited edition?,product_availability
+How long does delivery take?,shipping_info
+Is GPay accepted?,payment_methods
+What is the status of my order?,order_status
+I want to cancel my order,cancel_order
+I want to know my shipping status,order_status
+Why is my order taking so long?,order_status
+Can I return my purchase?,return_policy
+Do you have more in your warehouse?,product_availability
+Can I pay with UPI?,payment_methods
+Why is my order taking so long?,order_status
+Can I use net banking?,payment_methods
+Is GPay accepted?,payment_methods
+Do you support EMI?,payment_methods
+Do you support EMI?,payment_methods
+What courier do you use?,shipping_info
+What is your return policy?,return_policy
+Is cash on delivery available?,payment_methods
+Why is my order taking so long?,order_status
+Is this a limited edition?,product_availability
+What payment methods do you accept?,payment_methods
+Order cancellation not working,cancel_order
+Is my package delayed?,order_status
+Is there a restocking fee?,return_policy
+How do I cancel my order?,cancel_order
+Do I need the receipt to return?,return_policy
+Can I cancel after payment?,cancel_order
+Can I pay with UPI?,payment_methods
+How long does delivery take?,shipping_info
+What are the shipping charges?,shipping_info
+Can I cancel after payment?,cancel_order
+How do I cancel my order?,cancel_order
+Do you offer free delivery?,shipping_info
+How much is shipping?,shipping_info
+Order hasn’t arrived yet,order_status
+Is this product in stock?,product_availability
+When will this product be available again?,product_availability
+Is payment secure?,payment_methods
+When does this product release?,product_availability
+Is this product in stock?,product_availability
+Will this size be restocked?,product_availability
+Do I need to call to cancel?,cancel_order
+What is your return policy?,return_policy
+What items are not returnable?,return_policy
+Where is my order?,order_status
+Is return shipping free?,return_policy
+Can I split my payment?,payment_methods
+Do I need the receipt to return?,return_policy
+Do I need the receipt to return?,return_policy
+Can I use net banking?,payment_methods
+Can I get a refund for my return?,return_policy
+When does this product release?,product_availability
+Do you ship on weekends?,shipping_info
+Is there a restocking fee?,return_policy
+Can I choose my delivery date?,shipping_info
+How do I check my order's status?,order_status
+How long does delivery take?,shipping_info
+Will this size be restocked?,product_availability
+What items are not returnable?,return_policy
+Do you have this item?,product_availability
+Order cancellation not working,cancel_order
+How do I cancel my order?,cancel_order
+What is your return policy?,return_policy
+"I clicked the wrong product, can I cancel?",cancel_order
+Do you support EMI?,payment_methods
+Can I change my shipping address?,shipping_info
+How much is shipping?,shipping_info
+Can I cancel after payment?,cancel_order
+Can I use PayPal to pay?,payment_methods
+When does this product release?,product_availability
+Do you accept credit cards?,payment_methods
+How long does delivery take?,shipping_info
+Do you have this item?,product_availability
+Can I pay with UPI?,payment_methods
+Is GPay accepted?,payment_methods
+Why is my order taking so long?,order_status
+Order hasn’t arrived yet,order_status
+Why is my order taking so long?,order_status
+What payment methods do you accept?,payment_methods
+I want to cancel my order,cancel_order
+What items are not returnable?,return_policy
+Do you have more in your warehouse?,product_availability
+Can I track my order?,order_status
+Is the red color variant available?,product_availability
+Has my order shipped yet?,order_status
+What is the cancellation process?,cancel_order
+Will this size be restocked?,product_availability
+I want to cancel my order,cancel_order
+What happens if I return after the deadline?,return_policy
+Is my package delayed?,order_status
+When will this product be available again?,product_availability
+What is the cancellation process?,cancel_order
+Is payment secure?,payment_methods
+"I clicked the wrong product, can I cancel?",cancel_order
+Do I need to call to cancel?,cancel_order
+Can I cancel after payment?,cancel_order
+Is my package delayed?,order_status
+How long do I have to return an item?,return_policy
+Is return shipping free?,return_policy
+Do you ship internationally?,shipping_info
+"I clicked the wrong product, can I cancel?",cancel_order
+Can I get a refund for my return?,return_policy
+Do you have this item?,product_availability
+Is express shipping available?,shipping_info
+How much is shipping?,shipping_info
+Is GPay accepted?,payment_methods
+Is there a restocking fee?,return_policy
+Can I use net banking?,payment_methods
+How long do I have to return an item?,return_policy
+How do I check my order's status?,order_status
+Can I choose my delivery date?,shipping_info
+How much is shipping?,shipping_info
+Can I return a used item?,return_policy
+Can I cancel my purchase?,cancel_order
+Can I use net banking?,payment_methods
+How do I check my order's status?,order_status
+Is this a limited edition?,product_availability
+Can I cancel after payment?,cancel_order
+Is this a limited edition?,product_availability
+Will this size be restocked?,product_availability
+How do I check my order's status?,order_status
+Can I pay with UPI?,payment_methods
+Do you accept credit cards?,payment_methods
+I want to know my shipping status,order_status
+Is payment secure?,payment_methods
+Why is my order taking so long?,order_status
+What is your return policy?,return_policy
+Can I change my shipping address?,shipping_info
+Can I cancel after payment?,cancel_order
+Can I return my purchase?,return_policy
+What is your return policy?,return_policy
+Is the red color variant available?,product_availability
+What items are not returnable?,return_policy
+How do I check my order's status?,order_status
+Order hasn’t arrived yet,order_status
+Is the red color variant available?,product_availability
+Do you ship internationally?,shipping_info
+Notify me when back in stock,product_availability
+Can I change my shipping address?,shipping_info
+Can I choose my delivery date?,shipping_info
+Cancel my order immediately,cancel_order
+"I clicked the wrong product, can I cancel?",cancel_order
+How much is shipping?,shipping_info
