@@ -72,6 +72,7 @@ def generate_response(user_message: str):
 
     return possible_responses[best_response_index]
 
+# For testing
 if __name__ == "__main__":
     print("🛍️ Welcome to CartEase AI Shopping Assistant!")
     print("Type your message below (or 'exit' to quit):\n")
